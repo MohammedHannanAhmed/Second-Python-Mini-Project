@@ -1,2 +1,2 @@
-# Python_Assignment_1_2
-I have completed the following Interview assignment 1&amp;2
+# Second Python project
+I have completed the following simple python project related to string and ASCII values
